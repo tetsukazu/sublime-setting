@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[SELECT 
+	CASE 
+
+	CASE ELSE
+
+END SELECT
+]]></content>
+	<tabTrigger>select</tabTrigger>
+	<scope>source.bht</scope>
+	<description>SELECT … END SELECT …</description>
+</snippet>

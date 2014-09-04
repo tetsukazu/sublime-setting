@@ -1,0 +1,22 @@
+{
+	"scope": "source.bht",
+	"completions":
+	[
+		// Types
+		"% ",
+		"$ ",
+		// Flow Controls
+		"RETURN ",
+		"GOTO",
+		"GOSUB",
+		// Constants
+		"CONSTANT1",
+		"CONSTANT2",
+		"CONSTANT3",
+		"CONSTANT4",
+		"CONSTANT5",
+		"CONSTANT6",
+		// Functions
+		{ "trigger": "ASimpleDisp", "contents": "SimpleDisp(0,FontH&(PWR) ,FontW&(PWR),Color&(PWR),BKColor&(PWR)    , ${1:integer val},${2:integer val},${3:integer val},"                        ")" }
+	]
+}

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA['*****************************************************************
+'* メイン処理<01>
+'*****************************************************************
+]]></content>
+	<tabTrigger>comment</tabTrigger>
+	<scope>source.bht</scope>
+	<description>コメント</description>
+</snippet>

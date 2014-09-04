@@ -1,0 +1,27 @@
+{
+	"installed_packages":
+	[
+		"AAAPackageDev",
+		"AngularJS",
+		"AutoFileName",
+		"Better CoffeeScript",
+		"Bootstrap 3 Jade Snippets",
+		"CoffeeCompile",
+		"CoffeeScriptHaml",
+		"ConvertToUTF8",
+		"CSS3_Syntax",
+		"Emmet",
+		"IMESupport",
+		"Jade Build",
+		"Japanize",
+		"jQuery",
+		"LESS",
+		"Markdown Extended",
+		"Monokai Extended",
+		"OmniMarkupPreviewer",
+		"SimpleClone",
+		"Theme - Flatland",
+		"TypeScript",
+		"VBScript"
+	]
+}

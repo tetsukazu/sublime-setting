@@ -1,0 +1,9 @@
+{
+	"name": "Label2",
+	"scope": "source.bht comment.line.apostrophe.label2.bht", 
+	"settings": {
+		"showInSymbolList": "1",
+		"symbolTransformation": "s/(.+)/\t\\[sub\\]$1/"
+	},
+	"uuid": "3CDA49B2-A5C5-405C-82E2-B8B668877C48"
+}
