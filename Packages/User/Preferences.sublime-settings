@@ -1,10 +1,12 @@
 {
+	"aprosopo_active_bar": true,
+	"aprosopo_sidebar_tree_xlarge": true,
+	"color_scheme": "Packages/Theme - Aprosopo/Tomorrow-Night-Eighties-Stormy.tmTheme",
 	"font_face": "メイリオ",
 	"font_size": 12,
 	"ignored_packages":
 	[
 		"Better CoffeeScript",
-		"Vintage",
-		"Theme - Flatland"
+		"Vintage"
 	]
 }
