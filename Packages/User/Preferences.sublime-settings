@@ -3,8 +3,8 @@
 	"font_size": 12,
 	"ignored_packages":
 	[
-		"Vintage",
 		"Better CoffeeScript",
+		"Vintage",
 		"Theme - Flatland"
 	]
 }
